@@ -1,5 +1,5 @@
-use std::{io::{BufReader, BufRead}};
-use clap::{Parser};
+use std::io::{BufReader, BufRead};
+use clap::Parser;
 use std::fmt::Debug;
 
 #[derive(Parser)]
